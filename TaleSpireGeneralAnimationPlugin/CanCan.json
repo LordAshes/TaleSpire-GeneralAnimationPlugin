@@ -1,0 +1,68 @@
+{
+	"0": {
+			"LeftUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"LeftLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}}
+		 },
+	"30":{
+			"LeftUpLeg": {"target": {"ax": -90, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"LeftLeg": {"target": {"ax": -90, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}}
+		 },
+	"60":{
+			"LeftUpLeg": {"target": {"ax": -90, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"LeftLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}}
+		 },
+	"90":{
+			"LeftUpLeg": {"target": {"ax": -90, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"LeftLeg": {"target": {"ax": -90, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}}
+		 },
+	"120": {
+			"LeftUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"LeftLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}}
+		 },
+	"130": {
+			"LeftUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"LeftLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}}
+		 },
+	"160": {
+			"LeftUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"LeftLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}}
+		 },
+	"190":{
+			"LeftUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"LeftLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightUpLeg": {"target": {"ax": -90, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightLeg": {"target": {"ax": -90, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}}
+		 },
+	"220":{
+			"LeftUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"LeftLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightUpLeg": {"target": {"ax": -90, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}}
+		 },
+	"250":{
+			"LeftUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"LeftLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightUpLeg": {"target": {"ax": -90, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightLeg": {"target": {"ax": -90, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}}
+		 },
+	"280": {
+			"LeftUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"LeftLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightUpLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}},
+			"RightLeg": {"target": {"ax": 0, "ay": 0, "az": 0, "px": "NaN", "py": "NaN", "pz": "NaN"}}
+		 }
+}
